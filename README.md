@@ -11,9 +11,9 @@ Estudo de Angular utilizando a plataforma Alura
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Database 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+This project uses JsonServer as database, in order to work run `npm install -g json-server`. More info in [JsonServer](https://github.com/typicode/json-server)
 
 ## Build
 
