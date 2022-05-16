@@ -1,6 +1,11 @@
 # Bytebank
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
+Estudo de Angular utilizando a plataforma Alura
+* Publicação de valores através de um formulário
+* Navegação entre rotas
+* Entendimento de funcionalidades como o \*NgIf e \*NgFor
+* Comunicação com API Rest (GET e POST)
+* Redirecionamento para outra rota ao executar um POST
 
 ## Development server
 
